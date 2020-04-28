@@ -1,0 +1,175 @@
+{	
+	"contenido":
+	[
+		{
+			"tag": "Saludo",
+			"patrones":["hola", "un saludo", "hello"],
+			"respuestas":["Hola que tal!" , "Como te va ?", "Un gusto verte"]
+		},
+		{
+			"tag":"despedida",
+			"patrones":["adios", "hasta la proxima", "nos vemos"],
+			"respuestas":["Cuidate", "nos vemos pronto", " te estare esperando"]
+		},
+		{
+			"tag":"salida",
+			"patrones":["0"],
+			"respuestas":["Cuidate", "nos vemos pronto", " te estare esperando"]
+		},
+		{
+ 			"tag":"contador266",
+			"patrones":["investigación", "grupo","convocatoria","patentar","innova","empresarial","cde","semillero"],
+			"respuestas":["No entiedo la pregunta, para mas informacion acercate nuestras intalacion ubicada en Autopista a Piedecuesta Kilómetro 7, Universidad Pontificia Bolivariana Seccional Bucaramanga, Edificio L Oficina 201, Numero:(+57) 679 6220 Exts.20740- 20724"]
+		},
+		{
+			"tag":"contador1",
+			"patrones":["¿Qué se protege cuando se otorga una patente?"],
+			"respuestas":["Se protegen las invenciones sean de nuevos productos o de procedimientos que sean considerados nuevos, inventivos y con aplicación industrial."]
+
+		},
+		{
+			"tag":"contador2",
+			"patrones":["¿Cuáles son las categorías de clasificación definidas por Colciencias para los grupos de investigación, desarrollo tecnológico o de innovación?"],
+			"respuestas":["Colciencias clasifica los grupos que cumplan los requisitos para ser grupos de investigación, desarrollo tecnológico o de innovación de acuerdo con las siguientes categorías:A1, A, B, C y D."]
+			
+		},
+		{
+			"tag":"contador3",
+			"patrones":["¿Quién otorga estas patentes en Colombia?"],
+			"respuestas":["En Colombia corresponde a la Superintendencia de Industria y Comercio otorgar las patentes."]
+			
+		},
+		{
+			"tag":"contador4",
+			"patrones":["¿A quién a está dirigida la convocatoria UPB Innova?"],
+			"respuestas":["Estructuras de conocimiento, docentes de cátedra y estudiantes matriculados en pregrado o postgrado, o cualquier empleado o egresado de la Universidad, a través a los grupos de investigación registrados en el área de investigación y transferencia y/o en Colciencias."]
+			
+		},
+		{
+			"tag":"contador5",
+			"patrones":["Si adelanto una investigación, ¿la puedo patentar? "],
+			"respuestas":["Sí. Simplemente se trata de evaluar si lo que se pretende patentar cumple con tres requisitos: Novedad, altura inventiva y aplicación industrial. "]
+			
+		},
+		{
+			"tag":"contador6",
+			"patrones":["¿Qué es el CvLAC?"],
+			"respuestas":["El CvLAC (Currículum Vitae Latinoamericano y del Caribe), es un software que aloja la hoja de vida de las personas que hacen parte del sistema de ciencia, tecnología e innovación de países como Brasil, Colombia, Venezuela, Ecuador, Chile, Argentina, entre otros."]
+			
+		},
+		{
+			"tag":"contador7",
+			"patrones":["Si soy comunicador, filósofo, abogado o politólogo, ¿también puedo patentar?"],
+			"respuestas":["Si lo que se crea es una invención, sí. Pero si lo que se produce es una obra, la protección no será por la vía de la patente sino por Derechos de autor, caso en el cual no se tiene que hacer ningún trámite porque la obra está protegida desde su creación siempre y cuando sea original."]
+			
+		},
+		{
+			"tag":"contador8",
+			"patrones":["¿Por qué es importante para una Universidad patentar sus investigaciones?"],
+			"respuestas":["Es importante para la Universidad patentar los resultados de investigación porque de esta manera se le facilita la protección sobre la misma, pudiendo ser transferida al medio de una manera  más eficaz dado que quien reciba la tecnología tendrá exclusividad por 20 años en su uso."]
+			
+		},
+		{
+			"tag":"contador9",
+			"patrones":["¿Cuáles son las modalidades de proyectos de investigación de la convocatoria UPB-INNOVA?"],
+			"respuestas":["Son tres modalidades a saber:Modalidad I. Proyectos que pasan de la fase de gestión de las ideas a la de desarrollo experimental, incluidos aquellos que pretenden promover la producción de conocimiento en temas de importancia para la Universidad y la sociedad, que propician diálogos e intercambios entre investigadores con el fin de generar articulaciones que permitan aportes e intervenciones que faciliten procesos de cambio. Los proyectos presentados este año en esta categoría, podrán aplicar en la convocatoria de Becas de Formación Investigativa, anteriormente llamada pasantías investigativas.Modalidad II. Proyectos que pasan de la fase de gestión del desarrollo experimental al desarrollo tecnológico o social.Modalidad III. Proyectos que pasan de la fase del desarrollo tecnológico o social a la nueva oportunidad de negocio."]
+			
+		},
+		{
+			"tag":"contador10",
+			"patrones":["¿Qué es el GrupLAC?"],
+			"respuestas":["El GrupLAC (Grupo Latinoamérica y del Caribe), es el directorio de los grupos de investigación, instituciones e investigadores que hacen parte  del sistema de Ciencia, Tecnología e Innovación del país."]
+			
+		},
+		{
+			"tag":"contador11",
+			"patrones":["¿Quiénes pueden solicitar los servicios del consultorio empresarial? ¿Tiene algún costo?"],
+			"respuestas":["El servicio lo pueden solicitar pequeños comerciantes. La consulta no tiene costos, pero el resto del proceso de acompañamiento sí, dependiendo de la necesidad del cliente."]
+			
+		},
+		{
+			"tag":"contador12",
+			"patrones":["¿Qué fuente de financiación o concurso me puede ayudar a obtener recursos para mi iniciativa empresarial?"],
+			"respuestas":["En Colombia te pueden ayudar:apps.co.Fondo Emprender.Ministerio de Educación.Ángeles Inversionistas."]
+			
+		},
+		{
+			"tag":"contador13",
+			"patrones":["¿Quiénes pueden participar en el programa de emprendimiento del CDE UPB?"],
+			"respuestas":["Actualmente el programa se ofrece a la comunidad UPB (estudiantes, docentes, egresados, empleados); pero estamos desarrollando un proyecto para ofrecerlo a personas externas."]
+			
+		},
+		{
+			"tag":"contador14",
+			"patrones":["¿Cómo puedo acceder a la cátedra de Mentalidad Emprendedora?"],
+			"respuestas":["Como estudiante de pregrado debes inscribir la asignatura interdisciplinaria de Mentalidad Emprendedora."]
+			
+		},
+		{
+			"tag":"contador15",
+			"patrones":["Tengo constituida la empresas ¿puedo recibir acompañamiento?"],
+			"respuestas":["Sí se puede recibir asesoría y acompañamiento, este procedimietno se llam Fortalecimiento empresarial, el cual te colaborará a mejorar lo resultados y perfeccionar los procesos a administrativos y/o comerciales."]
+			
+		},
+		{
+			"tag":"contador16",
+			"patrones":["¿Qué tipo de empresas son atendidas por el CDE en procesos de consultoría o asesoría?"],
+			"respuestas":["Empresas de todos los sectores, catalogadas como pequeñas, medianas y grandes empresas."]
+			
+		},
+		{
+			"tag":"contador17",
+			"patrones":["¿Cómo puedo comenzar a recibir asesoría en creación de empresa?"],
+			"respuestas":["A través de la página web de la UPB, buscas Centro de Desarrollo Empresarial -CDE- y diligencias el formato de Ingreso de Iniciativas al CDE . Así te inscribes al CDE y separas una cita para que te hagamos un diagnóstico de la iniciativa."]
+			
+		},
+		{
+			"tag":"contador18",
+			"patrones":["¿Cuál es el horario de atención del Centro de Familia?"],
+			"respuestas":["El Centro de Familia de la UPB Medellín, ofrecen sus servicios al público en general en el horario de lunes a viernes de 7:30 a.m. a 12:30 m y de 1:30 p.m. a 5:30 p.m. en horario de oficina y de acuerdo a la disponibilidad de los profesionales."]
+			
+		},
+		{
+			"tag":"contador19",
+			"patrones":["¿Cuáles son las categorías que conforman la convocatoria UPB Innova?"],
+			"respuestas":["Este año la convocatoria de UPB Innova contará con tres categorías, las cuales se manejarán en diferentes momentos del año:Proyectos de investigación, desarrollo e innovación tecnológica y/o social.Proyectos de investigación, desarrollo e innovación tecnológica y/o social, que den respuesta a un reto planteado.Proyectos con potencial para ser financiados por cooperación para el desarrollo."]
+			
+		},
+		{
+			"tag":"contador20",
+			"patrones":["¿Qué es un grupo de investigación?"],
+			"respuestas":["Colciencias define un grupo de investigación, desarrollo tecnológico e innovación como un grupo de personas que interactúan para investigar y generar conjuntamente productos de conocimiento en uno o varios temas, de acuerdo con un plan de trabajo de mediano o largo plazo."]
+			
+		},
+		{
+			"tag":"contador21",
+			"patrones":["¿Qué ventajas tiene pertenecer a un semillero de investigación?"],
+			"respuestas":["Los estudiantes que pertenece a un semillero de tienen estos beneficios: Ventaja competitiva en su perfil como profesionalDesarrollar su proyecto de grado de manera mas fácilAcceder a financiación para la participación en eventos y desarrollo de proyectos de investigaciónMatrícula preferente."]
+			
+		},
+		{
+			"tag":"contador22",
+			"patrones":["¿Cómo inscribirse en un semillero de investigación?"],
+			"respuestas":["Los estudiantes deben  contactar al coordinador de investigación de la escuela donde están matriculados en pregrado, y ponerse en contacto con los docentes que dirigen las líneas de investigación de los semilleros."]
+			
+		},
+		{
+			"tag":"contador23",
+			"patrones":["¿Quién puede desempeñarse como coordinador de un grupo de investigación?"],
+			"respuestas":["Un docente vinculado con la Universidad a término indefinido y adscrito a la Facultad a la que pertenece el grupo específico, que cumpla con alguna de las siguientes tipologías de investigador según Colciencias: Sénior, Asociado o Junior."]
+			
+		},
+		{
+			"tag":"contador24",
+			"patrones":["¿Quiénes pueden integrar un grupo de investigación?"],
+			"respuestas":["Investigadores, estudiante o personas que desempeñan alguna tarea relacionada con la actividad investigativa del grupo."]
+			
+		},
+		{
+			"tag":"contador25",
+			"patrones":["¿Qué es un grupo de investigación?"],
+			"respuestas":["Colciencias define un grupo de investigación, desarrollo tecnológico e innovación como un grupo de personas que interactúan para investigar y generar conjuntamente productos de conocimiento en uno o varios temas, de acuerdo con un plan de trabajo de mediano o largo plazo."]
+			
+		}
+	]
+}

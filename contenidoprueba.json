@@ -1,0 +1,29 @@
+{
+	"contenido":[
+		{
+			"tag": "Saludo",
+			"patrones":["hola", "un saludo", "hello"],
+			"respuestas":["Hola que tal!" , "Como te va ?", "Un gusto verte"]
+		},
+		{
+			"tag":"despedida",
+			"patrones":["adios", "hasta la proxima", "nos vemos"],
+			"respuestas":["Cuidate", " nos vemos pronto", " te estare esperando"]
+		},
+		{
+			"tag":"salida1",
+			"patrones":["¿Qué se protege cuando se otorga una patente? "],
+			"respuestas":["Se protegen las invenciones sean de nuevos productos o de procedimientos que sean considerados nuevos, inventivos y con aplicación industrial."]
+		},
+		{
+			"tag":"salida2",
+			"patrones":["¿Cuáles son las categorías de clasificación definidas por Colciencias para los grupos de investigación, desarrollo tecnológico o de innovación?"],
+			"respuestas":["Colciencias clasifica los grupos que cumplan los requisitos para ser grupos de investigación, desarrollo tecnológico o de innovación de acuerdo con las siguientes categorías:A1, A, B, C y D."]
+		},
+		{
+			"tag":"salida3",
+			"patrones":[ "¿Quién otorga estas patentes en Colombia?"],
+			"respuestas":["En Colombia corresponde a la Superintendencia de Industria y Comercio otorgar las patentes. "]
+		}		
+	]
+}
